@@ -1,4 +1,4 @@
-# Personal Radar / 兴趣雷达
+# Interest Radar / 兴趣雷达
 
 一个 Hermes Agent Skill：接收外部内容，利用用户的个人上下文判断内容与用户的相关程度。
 
